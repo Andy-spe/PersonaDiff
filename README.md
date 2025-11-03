@@ -1,9 +1,14 @@
-# PersonaDiff
-**Style-controllable diffusion for speech-driven 3D facial animation**
+# Introduction
+**Diffusion-Based Style Control for Speech-Synchronized 3D Facial Animation**
 
-Brief: PersonaDiff is a diffusion-based framework that generates high-fidelity, style-controllable 3D facial motion from speech. It disentangles dynamic and static speaking style and conditions a denoising decoder on both audio content and an expression-style vector.
+## Dataset 
+### BIWI
+### VOCASET
+### Beat
+### 3D-ETF
+The 3D-ETF dataset and download instructions can be obtained from the project repository: \url{https://github.com/psyai-net/EmoTalk_release}.
 
-## Features
+
 - Motion encoder for content-related facial motion
 - Two-branch audio encoders for content and emotion
 - Audiovisual fusion producing expression-style vector
