@@ -17,6 +17,7 @@ The 3D-ETF dataset and download instructions can be obtained from the project re
 conda create -n personadiff python=3.9 -y
 conda activate personadiff
 pip install -r requirements.txt
+```
 
 ## Acknowledgement
 We extend our sincere thanks to [FaceFormer](https://github.com/EvelynFan/FaceFormer),[CodeTalker](https://github.com/Doubiiu/CodeTalker),[FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser),[huggingface-transformers ](https://huggingface.co/),and[Wav2Vec2](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition).This project stands on the shoulders of giants. Thank you for helping us reach higher.
