@@ -11,8 +11,7 @@ Please follow the Beat data-preparation steps described in the [FaceDiffuser](ht
 ### 3D-ETF
 The 3D-ETF dataset and download instructions can be obtained from the project repository:https://github.com/psyai-net/EmoTalk_release.
 
-## Project
-###  Environment
+## Environment
 ```bash
 conda create -n personadiff python=3.9 -y
 conda activate personadiff
