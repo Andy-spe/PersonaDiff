@@ -7,7 +7,7 @@ Please follow the BIWI data-preparation steps described in the [CodeTalker](http
 ### VOCASET
 Request the VOCASET data from https://voca.is.tue.mpg.de/login.php.
 ### Beat
-
+Please follow the BIWI data-preparation steps described in the [FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser) repository to reproduce our setup.
 ### 3D-ETF
 The 3D-ETF dataset and download instructions can be obtained from the project repository:https://github.com/psyai-net/EmoTalk_release.
 
