@@ -3,7 +3,7 @@
 
 ## Dataset 
 ### BIWI
-To ensure a fair comparison with previous methods, we adopt the same BIWI preprocessing and train/val/test splits used in CodeTalker. Please follow the BIWI data-preparation steps described in the CodeTalker repository [访问 GitHub](https://github.com) to reproduce our setup.
+Please follow the BIWI data-preparation steps described in the [CodeTalker](https://github.com/Doubiiu/CodeTalker) repository to reproduce our setup.
 ### VOCASET
 Request the VOCASET data from https://voca.is.tue.mpg.de/login.php.
 ### Beat
