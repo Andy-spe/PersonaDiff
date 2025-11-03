@@ -3,6 +3,7 @@
 
 ## Dataset 
 ### BIWI
+To ensure a fair comparison with previous methods, we adopt the same BIWI preprocessing and train/val/test splits used in CodeTalker. Please follow the BIWI data-preparation steps described in the CodeTalker repository ([访问 GitHub]([https://github.com](https://github.com/Doubiiu/CodeTalker))) to reproduce our setup.
 ### VOCASET
 ### Beat
 ### 3D-ETF
