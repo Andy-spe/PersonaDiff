@@ -18,7 +18,6 @@ The 3D-ETF dataset and download instructions can be obtained from the project re
 - Diffusion decoder with multi-head rotary attention and MotionAmplifier
 - Supports vertex and blendshape targets, evaluation scripts, and visualization tools
 
-## Quick start
 
 ### 1. Environment
 ```bash
