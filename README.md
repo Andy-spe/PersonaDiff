@@ -6,7 +6,7 @@
 ### VOCASET
 ### Beat
 ### 3D-ETF
-The 3D-ETF dataset and download instructions can be obtained from the project repository: \url{https://github.com/psyai-net/EmoTalk_release}.
+The 3D-ETF dataset and download instructions can be obtained from the project repository:https://github.com/psyai-net/EmoTalk_release.
 
 
 - Motion encoder for content-related facial motion
