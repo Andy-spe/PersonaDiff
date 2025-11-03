@@ -3,9 +3,11 @@
 
 ## Dataset 
 ### BIWI
-To ensure a fair comparison with previous methods, we adopt the same BIWI preprocessing and train/val/test splits used in CodeTalker. Please follow the BIWI data-preparation steps described in the CodeTalker repository ([访问 GitHub]([https://github.com])) to reproduce our setup.
+To ensure a fair comparison with previous methods, we adopt the same BIWI preprocessing and train/val/test splits used in CodeTalker. Please follow the BIWI data-preparation steps described in the CodeTalker repository [访问 GitHub](https://github.com) to reproduce our setup.
 ### VOCASET
+Request the VOCASET data from https://voca.is.tue.mpg.de/login.php.
 ### Beat
+
 ### 3D-ETF
 The 3D-ETF dataset and download instructions can be obtained from the project repository:https://github.com/psyai-net/EmoTalk_release.
 
