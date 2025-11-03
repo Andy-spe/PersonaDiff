@@ -11,12 +11,10 @@ Please follow the Beat data-preparation steps described in the [FaceDiffuser](ht
 ### 3D-ETF
 The 3D-ETF dataset and download instructions can be obtained from the project repository:https://github.com/psyai-net/EmoTalk_release.
 
+## Project
 
-- Motion encoder for content-related facial motion
-- Two-branch audio encoders for content and emotion
-- Audiovisual fusion producing expression-style vector
-- Diffusion decoder with multi-head rotary attention and MotionAmplifier
-- Supports vertex and blendshape targets, evaluation scripts, and visualization tools
+## Acknowledgement
+We extend our sincere thanks to [FaceFormer](https://github.com/EvelynFan/FaceFormer),[CodeTalker](https://github.com/Doubiiu/CodeTalker),[FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser),[huggingface-transformers ](https://huggingface.co/),and[Wav2Vec2](https://huggingface.co/r-f/wav2vec-english-speech-emotion-recognition).This project stands on the shoulders of giants. Thank you for helping us reach higher.
 
 
 ### 1. Environment
